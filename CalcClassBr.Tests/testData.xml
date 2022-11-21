@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Operations>
+	<Operation expression_1 = "5" expression_2 = "2" expected = "0"/>
+	<Operation expression_1 = "23" expression_2 = "23" expected = "0"/>
+	<Operation expression_1 = "2573417547" expression_2 = "2" expected = "Error 06 — Дуже мале, або дуже велике значення числа для int. Числа повинні бути в межах від -2 147 483 648 до 2 147 483 647."/>
+	<Operation expression_1 = "1190" expression_2 = "0" expected = "1190"/>
+	<Operation expression_1 = "374" expression_2 = "345" expected = "29"/>
+</Operations>
